@@ -39,7 +39,7 @@
   "isBannerGoogleFacebookBoth":true,
   "isComingSoon":false,
   "isFacebookFailShowGoogle":true,
-  "isFacebookGoogleBoth":true,
+  "isFacebookGoogleBoth":false,
   "isGoogleFailShowFacebook":true,
   "isNativeFacebookGoogleBoth":true,
   "isUpdateApp":false,
