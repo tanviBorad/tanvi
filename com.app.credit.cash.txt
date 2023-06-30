@@ -34,7 +34,7 @@
   "googleNativeId3":"ca-app-pub-3940256099942544/2247696110",
   "googleNativeId4":"ca-app-pub-3940256099942544/2247696110",
   "googleNativeId5":"ca-app-pub-3940256099942544/2247696110",
-  "isBackAdd":false,
+  "isBackAdd":true,
   "isBackFacebookGoogleBoth":false,
   "isBannerGoogleFacebookBoth":false,
   "isComingSoon":false,
