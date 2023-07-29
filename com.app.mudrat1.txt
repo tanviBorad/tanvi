@@ -35,7 +35,7 @@
   "googleNativeId4":"/22941947706/FastL_Space_Native",
   "googleNativeId5":"/22941947706/FastL_Space_Native",
   "isBackAdd":true,
-  "isBackFacebookGoogleBoth":true,
+  "isBackFacebookGoogleBoth":false,
   "isBannerGoogleFacebookBoth":true,
   "isComingSoon":false,
   "isFacebookFailShowGoogle":true,
