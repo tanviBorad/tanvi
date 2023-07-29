@@ -46,6 +46,6 @@
   "priority":"facebook",
   "showAd":false,
   "toBeClicked":1,
-  "totalIntro":0,
+  "totalIntro":5,
   "updateUrl":"https://www.google.com/"
 }
