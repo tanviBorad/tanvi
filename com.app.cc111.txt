@@ -18,7 +18,7 @@
   "facebookNativeId4":"238738562374852_239713768943998",
   "facebookNativeId5":"238738562374852_239713925610649",
   "facebookNativeVisible":true,
-  "googleAppOpenAd":"	/22798352804,22805009155/HPEE_com.app.co_OpenAppV2",
+  "googleAppOpenAd":"/22798352804,22805009155/HPEE_com.app.co_OpenAppV2",
   "googleBannerId1":"/22798352804,22805009155/HPEE_com.app.co_BannerV2",
   "googleBannerId2":"/22798352804,22805009155/HPEE_com.app.co_BannerV2",
   "googleBannerId3":"/22798352804,22805009155/HPEE_com.app.co_BannerV2",
