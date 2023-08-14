@@ -44,7 +44,7 @@
   "isNativeFacebookGoogleBoth":false,
   "isUpdateApp":false,
   "priority":"facebook",
-  "showAd":false,
+  "showAd":true,
   "toBeClicked":1,
   "totalIntro":0,
   "updateUrl":"https://www.google.com/"
